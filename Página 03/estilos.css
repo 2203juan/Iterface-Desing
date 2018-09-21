@@ -1,8 +1,9 @@
 header {
 
-	background: #33ff33;
+	background: #2ECC71  ;
 	color: #fff;
 	font-family: "Homer Simpson", cursive
+
 }
 
 .disp{
@@ -10,13 +11,15 @@ header {
 
 }
 .btn-primary{
-	background-color: #00FF27;
+	background-color: #ffffff;
 	color: #000000;
 }
 
 body{
+
 	background-color: #ffffff;
 	font-family: "Palatino", sans-serif;
+	background: url(http://todofondos.com/bin/fondos/07/74/47d.jpg)
 	
 }
 table {
@@ -34,7 +37,8 @@ td, th {
 }
 
 th {
-    background-color: #35FF75;
+    background-color:#00e676;
+    border: 1px solid #03882D;
     font-weight: bold;
 }		
 
@@ -42,12 +46,24 @@ th {
 	text-align: center;
 }
 .main{
-	background: #f2f2f2;
+	background: white;
+	 border: 1px solid #03882D;
 }
 
 .color1 {
-	background: #33ff33;
+	border: 1px solid #03882D;
+	background: #2ECC71;
 	color: #000000;
+}
+
+.color2 {
+
+	background: #ffffff;
+	color: #000000;
+}
+
+.color3 {
+	color: white;
 }
 
 
@@ -63,7 +79,8 @@ th {
 	margin-left: 0%;
 }
 aside{
-	background: #00FF49  ;
+	background: #2ECC71;
+	border: 1px solid #03882D;
 	color: #000000  ;
 }
 
